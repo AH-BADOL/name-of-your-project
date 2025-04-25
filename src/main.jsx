@@ -25,7 +25,7 @@ const router = createBrowserRouter([
     </div>
   </div>
   <div class="navbar-center">
-    <a class="btn btn-ghost text-xl">daisyUI</a>
+    <a class="btn btn-ghost text-xl">Badol</a>
   </div>
   <div class="navbar-end">
     <button class="btn btn-ghost btn-circle">
